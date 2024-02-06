@@ -1,0 +1,3 @@
+/home/yzwu/Desktop/training_lab/design_with_aie_3/training/fir_filter/lab/fir_prog_1/fir_intrisics/_ide/_build/CMakeFiles/fir_intrisics_libadf.a.dir
+/home/yzwu/Desktop/training_lab/design_with_aie_3/training/fir_filter/lab/fir_prog_1/fir_intrisics/_ide/_build/CMakeFiles/edit_cache.dir
+/home/yzwu/Desktop/training_lab/design_with_aie_3/training/fir_filter/lab/fir_prog_1/fir_intrisics/_ide/_build/CMakeFiles/rebuild_cache.dir
