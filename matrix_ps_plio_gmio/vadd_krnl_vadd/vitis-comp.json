@@ -1,0 +1,15 @@
+{
+  "name": "vadd_krnl_vadd",
+  "type": "HLS",
+  "part": "xcvc1902-vsva2197-2MP-e-S",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "krnl_vadd"
+  },
+  "previousBuildStatusMap": {
+    "sw_emu": "SUCCESS"
+  }
+}

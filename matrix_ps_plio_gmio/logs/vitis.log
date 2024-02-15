@@ -1,0 +1,1115 @@
+15:09:43 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+15:09:43 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+15:09:43 INFO  : Marking the target connection as default Local
+15:09:43 INFO  : Marking the target connection as default Linux Agent
+15:09:43 INFO  : Marking the target connection as default XRTServer
+15:09:43 INFO  : Marking the target connection as default LinuxEmulation
+15:09:43 INFO  : Marking the target connection as default QEMU
+15:09:43 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+15:09:43 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+15:09:44 INFO  : Successfully created repository data at /tmp/rigel_lopper_yzwu11895943499832358149
+15:09:44 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu3625504059190904680 -r /tmp/rigel_lopper_yzwu11895943499832358149/.repo.yaml && deactivate
+15:09:44 INFO  : Embedded Template List generated successfully
+15:09:44 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//repo.py -st   /tools/Xilinx/Vitis/2023.2/data/embeddedsw && deactivate
+15:09:44 INFO  : Successfully created repository data at /home/yzwu/Desktop/soc_test
+15:09:44 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu5354357328788133905 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:09:44 INFO  : Embedded Template List generated successfully
+15:09:44 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu6061321880961890938 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:09:44 INFO  : Embedded Template List generated successfully
+15:12:02 INFO  : Platform  platform creation started.
+15:12:02 INFO  : Found no platform with name 'hw' in install repositories
+15:12:02 INFO  : Found no platform with name 'hw_emu' in install repositories
+15:12:02 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && xsct /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/platformutil.tcl /tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/hw/hw.xsa /home/yzwu/Desktop/soc_test/platform/hw/sdt && deactivate
+15:12:14 INFO  : INFO: [Hsi 55-2053] elapsed time for repository (/tools/Xilinx/Vitis/2023.2/data/embeddedsw) loading 0 seconds
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_CACHE_BYTE_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ICACHE_BASEADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ICACHE_HIGHADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_BYTE_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_BASEADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_HIGHADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ICACHE_LINE_LEN' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_LINE_LEN' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_CACHE_BYTE_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ICACHE_BASEADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ICACHE_HIGHADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_BYTE_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_BASEADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_HIGHADDR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ICACHE_LINE_LEN' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_DCACHE_LINE_LEN' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.EDK_SPECIAL' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : INFO: Reading AIE hardware properties from XSA.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_NUM_INTR_INPUTS' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_KIND_OF_INTR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_NUM_INTR_INPUTS' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_KIND_OF_INTR' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ETH_MODE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_CPU_1X_CLK_FREQ_HZ' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.C_CPU_1X_CLK_FREQ_HZ' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.C_ENET_RESET' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_ETH_MODE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_CPU_1X_CLK_FREQ_HZ' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.C_CPU_1X_CLK_FREQ_HZ' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.C_ENET_RESET' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'CONFIG.C_I2C_RESET' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_USE_PIT1' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_USE_PIT2' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_USE_PIT3' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_USE_PIT4' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_PIT1_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_PIT2_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_PIT3_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_PIT4_SIZE' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_PIT1_PRESCALER' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_PIT2_PRESCALER' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : WARNING: [Common 17-673] Cannot get value of property 'C_PIT3_PRESCALER' because this property is not valid in conjunction with other property setting on this object.
+15:12:14 INFO  : INFO: [Common 17-14] Message 'Common 17-673' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+15:12:14 INFO  : SDT generated successfully
+15:12:14 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/platform
+15:12:14 INFO  : Lopper command for cpu List generation: lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f -i /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/lib/python3.8/site-packages/lopper/lops/lop-cpulist.dts /home/yzwu/Desktop/soc_test/platform/hw/sdt/system-top.dts
+15:12:14 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f -i /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/lib/python3.8/site-packages/lopper/lops/lop-cpulist.dts /home/yzwu/Desktop/soc_test/platform/hw/sdt/system-top.dts && deactivate
+15:12:15 INFO  : psv_cortexa72_0
+15:12:15 INFO  : psv_cortexa72_1
+15:12:15 INFO  : psv_pmc_0
+15:12:15 INFO  : psv_psm_0
+15:12:15 INFO  : psv_cortexr5_0
+15:12:15 INFO  : psv_cortexr5_1
+15:12:15 INFO  : CPU List generated successfully
+15:12:15 INFO  : Lopper command for peripheral List generation: lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f /home/yzwu/Desktop/soc_test/platform/hw/sdt/system-top.dts  -- baremetaldrvlist_xlnx psv_cortexa72_0 /home/yzwu/Desktop/soc_test/.repo.yaml
+15:12:15 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f /home/yzwu/Desktop/soc_test/platform/hw/sdt/system-top.dts  -- baremetaldrvlist_xlnx psv_cortexa72_0 /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:12:16 INFO  : Peripheral List generated successfully
+15:12:16 INFO  : VERSAL: Using the QEMU args from install at  : /tools/Xilinx/Vitis/2023.2/data/emulation/platforms/versal/sw/a72_standalone/qemu/qemu_args.txt
+15:12:16 INFO  : VERSAL: Using the PMC QEMU args from install at  : /tools/Xilinx/Vitis/2023.2/data/emulation/platforms/versal/sw/a72_standalone/qemu/pmc_args.txt
+15:12:16 INFO  : Updated DTB file /home/yzwu/Desktop/soc_test/platform/resources/xrt/boot/system.dtb
+15:12:16 INFO  : Platform creation finished successfully.
+15:12:16 INFO  : Platform Quick Build initiated.
+15:12:16 INFO  : Generating Export directory
+15:12:16 ERROR : failed copy qemu files to SW directorySource '/home/yzwu/Desktop/soc_test/platform/resources/qemu' does not exist
+15:12:16 INFO  : Generated platform metadata for creating application(s) based on platform platform.
+15:12:47 INFO  : Generating Export directory
+15:12:47 ERROR : failed copy qemu files to SW directorySource '/home/yzwu/Desktop/soc_test/platform/resources/qemu' does not exist
+15:12:47 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+15:12:47 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+15:12:47 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+15:12:47 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+15:12:47 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+15:12:47 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+15:12:47 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+15:12:47 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+15:12:47 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+15:12:47 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+15:12:47 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+15:12:47 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+15:12:47 INFO  : Platform Build Finished successfully.
+15:13:10 INFO  : Lopper command for cpu List generation: lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f -i /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/lib/python3.8/site-packages/lopper/lops/lop-cpulist.dts /home/yzwu/Desktop/soc_test/platform/export/platform/hw/sdt/system-top.dts
+15:13:10 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f -i /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/lib/python3.8/site-packages/lopper/lops/lop-cpulist.dts /home/yzwu/Desktop/soc_test/platform/export/platform/hw/sdt/system-top.dts && deactivate
+15:13:11 INFO  : psv_cortexa72_0
+15:13:11 INFO  : psv_cortexa72_1
+15:13:11 INFO  : psv_pmc_0
+15:13:11 INFO  : psv_psm_0
+15:13:11 INFO  : psv_cortexr5_0
+15:13:11 INFO  : psv_cortexr5_1
+15:13:11 INFO  : CPU List generated successfully
+15:13:11 INFO  : Lopper command for peripheral List generation: lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f /home/yzwu/Desktop/soc_test/platform/export/platform/hw/sdt/system-top.dts  -- baremetaldrvlist_xlnx psv_cortexa72_0 /home/yzwu/Desktop/soc_test/.repo.yaml
+15:13:11 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && lopper -O /home/yzwu/Desktop/soc_test/.rigel_lopper -f /home/yzwu/Desktop/soc_test/platform/export/platform/hw/sdt/system-top.dts  -- baremetaldrvlist_xlnx psv_cortexa72_0 /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:13:12 INFO  : Peripheral List generated successfully
+15:14:40 INFO  : VERSAL: Using the QEMU args from install at  : /tools/Xilinx/Vitis/2023.2/data/emulation/platforms/versal/sw/a72_standalone/qemu/qemu_args.txt
+15:14:40 INFO  : VERSAL: Using the PMC QEMU args from install at  : /tools/Xilinx/Vitis/2023.2/data/emulation/platforms/versal/sw/a72_standalone/qemu/pmc_args.txt
+15:14:40 INFO  : lopper command to generate BSP :python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//create_bsp.py -w /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp -p psv_cortexa72_1 -o standalone -s /home/yzwu/Desktop/soc_test/platform/hw/sdt/system-top.dts -t hello_world -r /home/yzwu/Desktop/soc_test/.repo.yaml
+15:14:40 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//create_bsp.py -w /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp -p psv_cortexa72_1 -o standalone -s /home/yzwu/Desktop/soc_test/platform/hw/sdt/system-top.dts -t hello_world -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:14:47 INFO  : -- The C compiler identification is GNU 12.2.0
+15:14:47 INFO  : -- The CXX compiler identification is GNU 12.2.0
+15:14:47 INFO  : -- Detecting C compiler ABI info
+15:14:47 INFO  : -- Detecting C compiler ABI info - done
+15:14:47 INFO  : -- Check for working C compiler: /tools/Xilinx/Vitis/2023.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-gcc - skipped
+15:14:47 INFO  : -- Detecting C compile features
+15:14:47 INFO  : -- Detecting C compile features - done
+15:14:47 INFO  : -- Detecting CXX compiler ABI info
+15:14:47 INFO  : -- Detecting CXX compiler ABI info - done
+15:14:47 INFO  : -- Check for working CXX compiler: /tools/Xilinx/Vitis/2023.2/gnu/aarch64/lin/aarch64-none/bin/aarch64-none-elf-g++ - skipped
+15:14:47 INFO  : -- Detecting CXX compile features
+15:14:47 INFO  : -- Detecting CXX compile features - done
+15:14:47 INFO  : -- Configuring done
+15:14:47 INFO  : -- Generating done
+15:14:47 INFO  : CMake Warning:
+15:14:47 INFO  :   Manually-specified variables were not used by the project:
+15:14:47 INFO  : 
+15:14:47 INFO  :     CMAKE_LIBRARY_PATH
+15:14:47 INFO  : 
+15:14:47 INFO  : 
+15:14:47 INFO  : -- Build files have been written to: /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp/libsrc/build_configs/gen_bsp
+15:14:47 INFO  : Successfully created Domain at /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp
+15:14:47 INFO  : Successfully Generated Domain /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp
+15:14:47 INFO  : Generating Export directory
+15:14:47 ERROR : failed copy qemu files to SW directorySource '/home/yzwu/Desktop/soc_test/platform/resources/qemu' does not exist
+15:14:47 INFO  : Generated platform metadata for creating application(s) based on platform platform.
+15:14:47 INFO  : lopper command to create baremetal application :python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//create_app.py -s /home/yzwu/Desktop/soc_test/hello_world/src -t hello_world -d /home/yzwu/Desktop/soc_test/platform/export/platform/sw/hello -n hello_world -r /home/yzwu/Desktop/soc_test/.repo.yaml
+15:14:47 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//validate_bsp.py -t hello_world -d /home/yzwu/Desktop/soc_test/platform/export/platform/sw/hello -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:14:48 INFO  : Successfully validated template hello_world
+15:14:48 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//create_app.py -s /home/yzwu/Desktop/soc_test/hello_world/src -t hello_world -d /home/yzwu/Desktop/soc_test/platform/export/platform/sw/hello -n hello_world -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:14:49 INFO  : Successfully Created Application sources at /home/yzwu/Desktop/soc_test/hello_world/src
+15:14:49 INFO  : Successfully created Application /home/yzwu/Desktop/soc_test/hello_world/src
+15:14:49 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/hello_world
+15:16:05 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu16416921987989171136 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+15:16:05 INFO  : Embedded Template List generated successfully
+16:10:51 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+16:10:51 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+16:10:51 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+16:10:51 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+16:10:51 INFO  : Successfully created repository data at /tmp/rigel_lopper_yzwu13769381745735074750
+16:10:51 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu10449036389253102909 -r /tmp/rigel_lopper_yzwu13769381745735074750/.repo.yaml && deactivate
+16:10:52 INFO  : Embedded Template List generated successfully
+16:10:52 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu9761758077409953862 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:10:52 INFO  : Embedded Template List generated successfully
+16:10:52 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu17080922646202775256 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:10:52 INFO  : Embedded Template List generated successfully
+16:12:22 INFO  : BSP build will be initiated for Domain hello
+16:12:22 INFO  : Generating BSP for the domain /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp
+16:12:22 INFO  : lopper command to build BSP :python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//build_bsp.py -d /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp
+16:12:22 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//build_bsp.py -d /home/yzwu/Desktop/soc_test/platform/psv_cortexa72_1/hello/bsp && deactivate
+16:12:24 INFO  : Domain build successfully
+16:12:24 INFO  : Generating Export directory
+16:12:24 ERROR : failed copy qemu files to SW directorySource '/home/yzwu/Desktop/soc_test/platform/resources/qemu' does not exist
+16:12:24 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+16:12:24 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+16:12:24 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+16:12:24 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+16:12:24 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+16:12:24 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/aiengine/qemu.
+16:12:24 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+16:12:24 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+16:12:24 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+16:12:24 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+16:12:24 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+16:12:24 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/xrt/qemu.
+16:12:24 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/hello/qemu.
+16:12:24 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/hello/qemu.
+16:12:24 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/hello/qemu.
+16:12:24 WARN  : BOOT_bh.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/hello/qemu.
+16:12:24 WARN  : pmc_cdo.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/hello/qemu.
+16:12:24 WARN  : plm.bin is not found in destination folder /home/yzwu/Desktop/soc_test/platform/resources/hello/qemu.
+16:12:24 INFO  : Platform Build Finished successfully.
+16:12:24 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//build_app.py -s /home/yzwu/Desktop/soc_test/hello_world/src -b /home/yzwu/Desktop/soc_test/hello_world/build && deactivate
+16:18:37 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+16:18:37 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/linux_hello_world/_ide/_build
+16:18:37 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/linux_hello_world
+16:19:46 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+16:19:46 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/linux_hello_world/_ide/_build
+16:19:46 INFO  : Component 'linux_hello_world' configure command: cmake -G "Unix Makefiles" ../ -DCMAKE_TOOLCHAIN_FILE=/tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/cmake/versal.toolchain -DSYSROOT=/opt/petalinux/2023.2/sysroots/cortexa72-cortexa53-xilinx-linux -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:20:00 INFO  : Testing the connection for 192.168.0.1
+16:20:10 ERROR : Failed in Validating the test connection for 192.168.0.1
+16:20:19 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+16:20:19 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/linux_hello_world/_ide/_build
+16:20:19 INFO  : Component 'linux_hello_world' configure command: cmake -G "Unix Makefiles" ../ -DCMAKE_TOOLCHAIN_FILE=/tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/cmake/versal.toolchain -DSYSROOT=/opt/petalinux/2023.2/sysroots/cortexa72-cortexa53-xilinx-linux -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:20:29 INFO  : Testing the connection for 192.168.0.1
+16:20:39 ERROR : Failed in Validating the test connection for 192.168.0.1
+16:21:28 INFO  : Testing the connection for 192.168.0.1
+16:21:38 ERROR : Failed in Validating the test connection for 192.168.0.1
+20:49:33 INFO  : Running v++ to write hls config for component '/home/yzwu/Desktop/soc_test/vadd_krnl_vadd':
+
+20:49:33 INFO  : v++ -c -f /tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -s --temp_dir=./_ide krnl_vadd.cpp -I../vadd_common --config /home/yzwu/Desktop/soc_test/vadd_krnl_vadd/_ide/vpp_compile.cfg --hls.pre_tcl /home/yzwu/Desktop/soc_test/vadd_krnl_vadd/_ide/write_ini.tcl
+20:49:39 WARN  : Kernel debugging will not function properly as the compile directory of 'krnl_vadd' doesn't exist at '/home/yzwu/Desktop/soc_test/vadd/build/hw_emu/hw_link/binary_container_1/binary_container_1/int/xo/krnl_vadd/krnl_vadd/cpu_sources'.
+20:49:39 WARN  : Kernel debugging will not function properly as the compile directory of 'krnl_vadd' doesn't exist at '/home/yzwu/Desktop/soc_test/vadd/build/hw/hw_link/binary_container_1/binary_container_1/int/xo/krnl_vadd/krnl_vadd/cpu_sources'.
+20:49:39 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+20:49:39 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+20:49:39 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/vadd_host
+20:49:39 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/vadd_krnl_vadd
+20:49:39 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/vadd
+20:54:24 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+20:54:24 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+20:54:24 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:54:38 INFO  : Running CMake configure command: bash -c unset CC CXX ;cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=sw_emu -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -DWORKSPACE_DIR=/home/yzwu/Desktop/soc_test -DVIVADO_HW_FLOW_ARCHIVE_EXT=.xsa
+20:54:38 INFO  : Running CMake build command: bash -c unset CC CXX ;cmake --build ./ -j3 --target all -- VERBOSE=true
+20:59:49 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+20:59:49 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+20:59:49 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:59:50 INFO  : Running CMake configure command: bash -c unset CC CXX ;cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=sw_emu -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -DWORKSPACE_DIR=/home/yzwu/Desktop/soc_test -DVIVADO_HW_FLOW_ARCHIVE_EXT=.xsa
+20:59:50 INFO  : Running CMake build command: bash -c unset CC CXX ;cmake --build ./ -j3 --target all -- VERBOSE=true
+21:17:11 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:17:11 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+21:17:11 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:17:12 ERROR : vadd_host build failed. 
+21:17:52 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:17:52 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+21:17:52 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:17:53 ERROR : vadd_host build failed. 
+21:18:36 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:18:36 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+21:18:36 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:18:36 INFO  : Running CMake configure command: bash -c unset CC CXX ;cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=sw_emu -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -DWORKSPACE_DIR=/home/yzwu/Desktop/soc_test -DVIVADO_HW_FLOW_ARCHIVE_EXT=.xsa
+21:18:37 INFO  : Running CMake build command: bash -c unset CC CXX ;cmake --build ./ -j3 --target all -- VERBOSE=true
+21:27:18 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:27:18 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+21:27:18 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:27:19 ERROR : vadd_host build failed. 
+21:28:56 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:28:56 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+21:28:56 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:28:57 INFO  : Running CMake configure command: bash -c unset CC CXX ;cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=sw_emu -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -DWORKSPACE_DIR=/home/yzwu/Desktop/soc_test -DVIVADO_HW_FLOW_ARCHIVE_EXT=.xsa
+21:28:57 INFO  : Running CMake build command: bash -c unset CC CXX ;cmake --build ./ -j3 --target all -- VERBOSE=true
+22:40:40 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+22:40:40 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+22:40:40 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:40:41 ERROR : vadd_host build failed. 
+22:41:10 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+22:41:10 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+22:41:10 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:41:17 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+22:41:17 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+22:41:17 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:41:17 INFO  : Running CMake configure command: bash -c unset CC CXX ;cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=sw_emu -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -DWORKSPACE_DIR=/home/yzwu/Desktop/soc_test -DVIVADO_HW_FLOW_ARCHIVE_EXT=.xsa
+22:41:18 INFO  : Running CMake build command: bash -c unset CC CXX ;cmake --build ./ -j3 --target all -- VERBOSE=true
+22:50:27 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+22:50:27 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+22:50:27 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:50:28 INFO  : Running CMake configure command: bash -c unset CC CXX ;cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=sw_emu -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -DWORKSPACE_DIR=/home/yzwu/Desktop/soc_test -DVIVADO_HW_FLOW_ARCHIVE_EXT=.xsa
+22:50:28 INFO  : Running CMake build command: bash -c unset CC CXX ;cmake --build ./ -j3 --target all -- VERBOSE=true
+13:28:02 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+13:28:02 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/aie_component/_ide/_build
+13:28:02 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/aie_component
+13:28:03 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+13:28:03 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/aie_component/_ide/_build
+17:11:40 INFO  : Terminating Vitis C++ Server
+17:11:40 INFO  : Vitis C++ Server terminated
+17:12:03 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+17:12:03 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+17:12:03 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+17:12:03 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+17:12:03 INFO  : Successfully created repository data at /tmp/rigel_lopper_yzwu1704758808492952237
+17:12:03 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu12116646888562469043 -r /tmp/rigel_lopper_yzwu1704758808492952237/.repo.yaml && deactivate
+17:12:04 INFO  : Embedded Template List generated successfully
+17:12:04 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu7117586725979092467 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+17:12:04 INFO  : Embedded Template List generated successfully
+17:12:04 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu7956304208815703203 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+17:12:04 INFO  : Embedded Template List generated successfully
+17:36:47 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:37:00 ERROR : aie_component build failed. 
+17:38:07 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:41:41 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:44:49 INFO  : Terminating Vitis C++ Server
+17:45:06 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+17:45:06 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+17:45:06 INFO  : Successfully created repository data at /tmp/rigel_lopper_yzwu8003862511563681926
+17:45:06 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu16274219869096448869 -r /tmp/rigel_lopper_yzwu8003862511563681926/.repo.yaml && deactivate
+17:45:06 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+17:45:06 INFO  : Embedded Template List generated successfully
+17:45:06 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu18125681993372164642 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+17:45:06 INFO  : Embedded Template List generated successfully
+17:45:06 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu10864271307422576342 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+17:45:06 INFO  : Embedded Template List generated successfully
+17:46:37 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:47:00 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:48:17 INFO  : Ran x86simulator --setup_env -i=../.. in /home/yzwu/Desktop/soc_test/aie_component/build/x86sim to get the environment settings for launch 
+17:48:18 ERROR : Invalid project location 'null'.
+17:50:28 ERROR : Invalid project location 'null'.
+17:50:31 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:50:43 ERROR : aie_component build failed. 
+17:50:49 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:52:08 INFO  : Ran x86simulator --setup_env -i=../.. in /home/yzwu/Desktop/soc_test/aie_component/build/x86sim to get the environment settings for launch 
+17:52:09 ERROR : Invalid project location 'null'.
+17:52:14 ERROR : Invalid project location 'null'.
+17:52:20 INFO  : Ran x86simulator --setup_env -i=../.. in /home/yzwu/Desktop/soc_test/aie_component/build/x86sim to get the environment settings for launch 
+17:52:21 ERROR : Invalid project location 'null'.
+17:52:40 ERROR : Invalid project location 'null'.
+17:54:46 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:55:26 INFO  : Terminating Vitis C++ Server
+17:55:42 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+17:55:42 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+17:55:42 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+17:55:42 INFO  : Successfully created repository data at /tmp/rigel_lopper_yzwu1509723555476798462
+17:55:42 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu1848342890343339777 -r /tmp/rigel_lopper_yzwu1509723555476798462/.repo.yaml && deactivate
+17:55:42 INFO  : Embedded Template List generated successfully
+17:55:42 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu4303806351118929763 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+17:55:43 INFO  : Embedded Template List generated successfully
+17:55:43 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu2767132691194953869 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+17:55:43 INFO  : Embedded Template List generated successfully
+17:59:43 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+18:14:29 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+18:18:06 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:55:22 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:56:46 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:59:45 INFO  : Terminating Vitis C++ Server
+21:59:45 INFO  : Vitis C++ Server terminated
+22:01:06 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+22:01:07 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+22:01:07 INFO  : Successfully created repository data at /tmp/rigel_lopper_yzwu8791168630737228814
+22:01:07 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu17921655560245151884 -r /tmp/rigel_lopper_yzwu8791168630737228814/.repo.yaml && deactivate
+22:01:07 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+22:01:07 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+22:01:07 INFO  : Embedded Template List generated successfully
+22:01:07 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu13955157447617082075 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+22:01:07 INFO  : Embedded Template List generated successfully
+22:01:07 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu977110877395388283 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+22:01:07 INFO  : Embedded Template List generated successfully
+22:11:56 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:14:15 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:15:20 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:17:38 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:29:45 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:29:57 ERROR : aie_component build failed. 
+22:30:15 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:30:27 ERROR : aie_component build failed. 
+22:30:33 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:30:45 ERROR : aie_component build failed. 
+22:30:53 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:31:05 ERROR : aie_component build failed. 
+22:34:53 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:41:57 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:55:12 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:55:33 ERROR : aie_component build failed. 
+22:56:19 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:56:33 ERROR : Build Terminated.
+22:56:35 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:59:20 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:05:43 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:08:33 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:10:31 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:12:16 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:13:50 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:14:10 ERROR : Build Terminated.
+23:14:11 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:15:17 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:21:45 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:22:42 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:24:40 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+23:24:40 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/vadd_host/_ide/_build
+23:24:40 INFO  : Component 'vadd_host' configure command: cmake -G "Unix Makefiles" ../../ -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+23:24:41 INFO  : Running CMake configure command: bash -c unset CC CXX ;cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=sw_emu -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm -DWORKSPACE_DIR=/home/yzwu/Desktop/soc_test -DVIVADO_HW_FLOW_ARCHIVE_EXT=.xsa
+23:24:41 INFO  : Running CMake build command: bash -c unset CC CXX ;cmake --build ./ -j3 --target all -- VERBOSE=true
+15:54:17 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+15:54:17 ERROR : Failed to run make -n for generating compile_commands.json :
+15:54:17 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/matrix_plio
+16:28:09 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:32:32 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:33:39 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:36:25 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:36:32 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+16:36:32 INFO  : Trying to terminate matched pids  --- [1117591, 1117610]
+16:36:32 INFO  : Terminated  --- 1117591
+16:36:32 INFO  : Terminated  --- 1117610
+16:36:32 INFO  : Completed termination of  pids  --- [1117591, 1117610]
+16:37:34 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+16:37:34 INFO  : Trying to terminate matched pids  --- [1118358, 1118377]
+16:37:34 INFO  : Terminated  --- 1118358
+16:37:34 INFO  : Terminated  --- 1118377
+16:37:34 INFO  : Completed termination of  pids  --- [1118358, 1118377]
+16:39:11 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+16:39:11 INFO  : Trying to terminate matched pids  --- [1118536, 1118555]
+16:39:11 INFO  : Terminated  --- 1118536
+16:39:11 INFO  : Terminated  --- 1118555
+16:39:11 INFO  : Completed termination of  pids  --- [1118536, 1118555]
+16:48:36 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+16:48:36 INFO  : Trying to terminate matched pids  --- [1118774, 1118802]
+16:48:36 INFO  : Terminated  --- 1118774
+16:48:36 INFO  : Terminated  --- 1118802
+16:48:36 INFO  : Completed termination of  pids  --- [1118774, 1118802]
+16:48:57 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:49:30 ERROR : aie_component build failed. 
+16:55:14 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:55:45 ERROR : aie_component build failed. 
+16:56:01 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:56:32 ERROR : aie_component build failed. 
+17:05:17 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:09:30 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+17:09:30 INFO  : Trying to terminate matched pids  --- [1124179, 1124198]
+17:09:30 INFO  : Terminated  --- 1124179
+17:09:30 INFO  : Terminated  --- 1124198
+17:09:30 INFO  : Completed termination of  pids  --- [1124179, 1124198]
+17:09:49 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:37:05 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+11:37:06 INFO  : Trying to terminate matched pids  --- [1165278, 1165305]
+11:37:06 INFO  : Terminated  --- 1165278
+11:37:06 INFO  : Terminated  --- 1165305
+11:37:06 INFO  : Completed termination of  pids  --- [1165278, 1165305]
+11:37:41 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:23:28 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:25:13 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+16:25:13 INFO  : Trying to terminate matched pids  --- [1177054, 1177084]
+16:25:13 INFO  : Terminated  --- 1177054
+16:25:13 INFO  : Terminated  --- 1177084
+16:25:13 INFO  : Completed termination of  pids  --- [1177054, 1177084]
+16:25:30 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:27:17 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:00:16 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+17:00:16 ERROR : Failed to run make -n for generating compile_commands.json :
+17:00:16 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/matrix_block
+20:39:30 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:39:43 ERROR : matrix_block build failed. 
+20:41:21 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:41:33 ERROR : matrix_block build failed. 
+20:42:44 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:42:56 ERROR : matrix_block build failed. 
+20:43:47 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:43:59 ERROR : matrix_block build failed. 
+20:45:32 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:45:44 ERROR : matrix_block build failed. 
+20:46:42 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:46:54 ERROR : matrix_block build failed. 
+20:47:28 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+20:47:40 ERROR : matrix_block build failed. 
+21:00:01 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:00:13 ERROR : matrix_block build failed. 
+21:04:47 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:05:01 ERROR : matrix_block build failed. 
+21:05:55 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:06:08 ERROR : matrix_block build failed. 
+21:09:57 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:10:10 ERROR : matrix_block build failed. 
+21:11:21 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:11:34 ERROR : matrix_block build failed. 
+21:12:12 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:12:24 ERROR : matrix_block build failed. 
+21:12:49 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:13:10 ERROR : matrix_block build failed. 
+21:15:33 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:16:53 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:17:14 ERROR : matrix_block build failed. 
+21:18:00 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:18:21 ERROR : matrix_block build failed. 
+21:21:08 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:21:30 ERROR : matrix_block build failed. 
+21:22:29 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:22:50 ERROR : matrix_block build failed. 
+21:26:03 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:26:25 ERROR : matrix_block build failed. 
+21:28:57 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:29:19 ERROR : matrix_block build failed. 
+21:30:39 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:31:01 ERROR : matrix_block build failed. 
+21:32:13 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:33:48 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:34:12 ERROR : matrix_block build failed. 
+21:35:54 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:36:18 ERROR : matrix_block build failed. 
+21:39:15 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:39:38 ERROR : matrix_block build failed. 
+21:40:52 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:41:15 ERROR : matrix_block build failed. 
+21:42:16 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:42:37 ERROR : matrix_block build failed. 
+21:43:08 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:43:10 INFO  : Component 'matrix_block' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:44:40 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:44:40 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/matrix_blo/_ide/_build
+21:44:40 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/matrix_blo
+21:44:40 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:44:40 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/matrix_blo/_ide/_build
+21:44:45 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:45:14 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:46:17 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+21:46:17 INFO  : Trying to terminate matched pids  --- [1269408, 1269427]
+21:46:17 INFO  : Terminated  --- 1269408
+21:46:17 INFO  : Terminated  --- 1269427
+21:46:17 INFO  : Completed termination of  pids  --- [1269408, 1269427]
+21:46:40 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:46:41 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/matrix_blo/_ide/_build
+21:46:41 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/matrix_blo
+21:46:41 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+21:46:41 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/matrix_blo/_ide/_build
+21:46:50 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:48:24 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+21:48:24 INFO  : Trying to terminate matched pids  --- [1270677, 1270696]
+21:48:24 INFO  : Terminated  --- 1270677
+21:48:24 INFO  : Terminated  --- 1270696
+21:48:24 INFO  : Completed termination of  pids  --- [1270677, 1270696]
+21:49:14 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:50:12 INFO  : XRT server has started successfully on port '4352'
+21:50:13 INFO  : XSDB server has started successfully from frontend.
+21:50:13 INFO  : It has taken  1secs.
+21:50:13 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12001"
+
+21:50:13 INFO  : Trying to terminate matched pids  --- [1271729, 1271748]
+21:50:13 INFO  : Terminated  --- 1271729
+21:50:13 INFO  : Terminated  --- 1271748
+21:50:13 INFO  : Completed termination of  pids  --- [1271729, 1271748]
+21:50:14 INFO  : Connection to XSDB Server established.
+21:50:14 INFO  : It has taken  1secs.
+21:50:14 INFO  : Done
+21:50:14 INFO  : Done
+21:50:14 ERROR : Failed
+Reason: Connection refused
+21:50:14 ERROR : Error in handling the notification Failed
+Reason: Connection refused
+21:50:15 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+21:50:15 INFO  : In terminateProcessTree: Terminated  --- 1271817
+21:50:15 ERROR : /tools/Xilinx/Vitis/2023.2/bin/xrt_server: line 129: 1271843 Killed                  "$RDI_BINROOT"/loader -exec $RDI_PROG "$@"
+21:50:15 INFO  : Trying to terminate matched pids  --- []
+21:50:15 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+21:51:08 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+21:51:08 INFO  : Trying to terminate matched pids  --- [1272025, 1272044]
+21:51:08 INFO  : Terminated  --- 1272025
+21:51:08 INFO  : Terminated  --- 1272044
+21:51:08 INFO  : Completed termination of  pids  --- [1272025, 1272044]
+21:51:20 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+21:51:20 INFO  : Trying to terminate matched pids  --- []
+21:51:20 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+21:53:42 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:53:48 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+21:53:48 INFO  : Trying to terminate matched pids  --- [1272269, 1272288]
+21:53:48 INFO  : Terminated  --- 1272269
+21:53:48 INFO  : Terminated  --- 1272288
+21:53:48 INFO  : Completed termination of  pids  --- [1272269, 1272288]
+21:54:33 INFO  : Terminating Vitis C++ Server
+21:54:52 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+21:54:52 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+21:54:52 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu3900613756549445034 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+21:54:52 INFO  : Embedded Template List generated successfully
+21:54:52 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+21:54:52 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+21:54:52 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu9609947298064573901 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+21:54:52 INFO  : Embedded Template List generated successfully
+21:55:08 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:55:52 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:57:38 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+21:58:23 INFO  : Ran x86simulator --setup_env -i=../.. in /home/yzwu/Desktop/soc_test/matrix_blo/build/x86sim to get the environment settings for launch 
+21:58:25 ERROR : Invalid project location 'null'.
+21:59:01 ERROR : Invalid project location 'null'.
+21:59:11 INFO  : Ran x86simulator --setup_env -i=../.. in /home/yzwu/Desktop/soc_test/matrix_blo/build/x86sim to get the environment settings for launch 
+21:59:12 ERROR : Invalid project location 'null'.
+21:59:33 ERROR : Invalid project location 'null'.
+22:00:40 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:01:31 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:02:50 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:02:50 INFO  : Trying to terminate matched pids  --- [1278708, 1278727]
+22:02:50 INFO  : Terminated  --- 1278708
+22:02:50 INFO  : Terminated  --- 1278727
+22:02:50 INFO  : Completed termination of  pids  --- [1278708, 1278727]
+22:03:23 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:03:23 INFO  : Trying to terminate matched pids  --- [1278912, 1278931]
+22:03:23 INFO  : Terminated  --- 1278912
+22:03:23 INFO  : Terminated  --- 1278931
+22:03:23 INFO  : Completed termination of  pids  --- [1278912, 1278931]
+22:03:36 INFO  : XRT server has started successfully on port '4352'
+22:03:37 INFO  : XSDB server has started successfully from frontend.
+22:03:37 INFO  : It has taken  1secs.
+22:03:38 INFO  : Connection to XSDB Server established.
+22:03:38 INFO  : It has taken  1secs.
+22:03:38 INFO  : Done
+22:03:38 INFO  : Done
+22:03:39 INFO  : Done
+22:03:39 INFO  : Done
+22:03:39 INFO  : Port updated for peer XRTServer with value 4352
+22:05:34 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:05:34 INFO  : Trying to terminate matched pids  --- []
+22:05:34 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:05:39 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+22:05:39 INFO  : Trying to terminate matched pids  --- []
+22:05:39 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+22:05:45 ERROR : /tools/Xilinx/Vitis/2023.2/bin/xrt_server: line 129: 1279519 Killed                  "$RDI_BINROOT"/loader -exec $RDI_PROG "$@"
+22:05:45 INFO  : In terminateProcessTree: Terminated  --- 1279493
+22:05:52 INFO  : XRT server has started successfully on port '4354'
+22:05:52 INFO  : Done
+22:05:52 INFO  : Done
+22:05:52 INFO  : Done
+22:05:52 INFO  : Port updated for peer XRTServer with value 4354
+22:07:51 INFO  : Component 'matrix_blo' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+22:08:52 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+22:08:52 INFO  : Trying to terminate matched pids  --- []
+22:08:52 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+22:08:54 INFO  : In terminateProcessTree: Terminated  --- 1279955
+22:08:54 ERROR : /tools/Xilinx/Vitis/2023.2/bin/xrt_server: line 129: 1279981 Killed                  "$RDI_BINROOT"/loader -exec $RDI_PROG "$@"
+22:08:59 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:08:59 INFO  : Trying to terminate matched pids  --- []
+22:08:59 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:13:14 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:13:14 INFO  : Trying to terminate matched pids  --- [1281129, 1281148]
+22:13:14 INFO  : Terminated  --- 1281129
+22:13:14 INFO  : Terminated  --- 1281148
+22:13:14 INFO  : Completed termination of  pids  --- [1281129, 1281148]
+22:17:57 INFO  : XRT server has started successfully on port '4355'
+22:17:57 INFO  : Done
+22:17:57 INFO  : Done
+22:17:57 INFO  : Done
+22:17:57 INFO  : Port updated for peer XRTServer with value 4355
+22:18:39 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+22:18:39 INFO  : Trying to terminate matched pids  --- []
+22:18:39 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+22:18:57 INFO  : In terminateProcessTree: Terminated  --- 1281746
+22:18:57 ERROR : /tools/Xilinx/Vitis/2023.2/bin/xrt_server: line 129: 1281772 Killed                  "$RDI_BINROOT"/loader -exec $RDI_PROG "$@"
+22:19:03 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+22:19:03 INFO  : Trying to terminate matched pids  --- []
+22:19:03 ERROR : No process matched with given string command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+10:23:35 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+10:23:35 ERROR : Failed to run make -n for generating compile_commands.json :
+10:23:35 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/matrix_gmio
+10:49:28 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+10:49:50 ERROR : aie_component build failed. 
+10:57:13 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+10:57:35 ERROR : aie_component build failed. 
+10:59:37 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+10:59:59 ERROR : aie_component build failed. 
+11:01:36 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:01:59 ERROR : aie_component build failed. 
+11:02:52 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:03:15 ERROR : aie_component build failed. 
+11:03:26 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:03:48 ERROR : aie_component build failed. 
+11:14:33 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:14:56 ERROR : aie_component build failed. 
+11:16:43 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:17:05 ERROR : aie_component build failed. 
+11:18:25 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:20:57 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:30:44 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:30:48 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+11:30:48 INFO  : Trying to terminate matched pids  --- [1333328, 1333359]
+11:30:48 INFO  : Terminated  --- 1333328
+11:30:48 INFO  : Terminated  --- 1333359
+11:30:48 INFO  : Completed termination of  pids  --- [1333328, 1333359]
+11:31:43 INFO  : Ran x86simulator --setup_env -i=../.. in /home/yzwu/Desktop/soc_test/aie_component/build/x86sim to get the environment settings for launch 
+11:31:45 ERROR : Invalid project location 'null'.
+11:31:46 ERROR : Invalid project location 'null'.
+11:34:12 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:35:18 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:38:08 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:39:06 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:41:38 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+11:41:38 ERROR : Failed to run make -n for generating compile_commands.json :
+11:41:38 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/matrix_plio_vec
+11:45:43 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+11:50:34 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:07:03 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+12:07:03 INFO  : Trying to terminate matched pids  --- [1348504, 1348537]
+12:07:03 INFO  : Terminated  --- 1348504
+12:07:03 INFO  : Terminated  --- 1348537
+12:07:03 INFO  : Completed termination of  pids  --- [1348504, 1348537]
+12:11:47 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:13:27 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu11749580405829765200 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:13:27 INFO  : Embedded Template List generated successfully
+12:13:27 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+12:13:27 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+12:13:27 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu6440476027692914978 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:13:28 INFO  : Embedded Template List generated successfully
+12:13:34 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu6581276140913856874 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:13:34 INFO  : Embedded Template List generated successfully
+12:13:34 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+12:13:34 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+12:13:34 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu8018034097527923026 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:13:34 INFO  : Embedded Template List generated successfully
+12:13:58 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu59672060944300908 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:13:58 INFO  : Embedded Template List generated successfully
+12:13:58 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+12:13:58 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+12:13:58 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu1310633829016258844 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:13:58 INFO  : Embedded Template List generated successfully
+12:14:05 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu8495120976922216720 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:14:05 INFO  : Embedded Template List generated successfully
+12:14:05 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+12:14:05 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+12:14:05 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu1958946179285774271 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:14:05 INFO  : Embedded Template List generated successfully
+12:14:12 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+12:14:12 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+12:14:12 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu17751655205855254540 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:14:12 INFO  : Embedded Template List generated successfully
+12:14:12 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu4348442523422067189 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+12:14:12 INFO  : Embedded Template List generated successfully
+12:19:41 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:22:46 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:24:58 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:28:35 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:34:31 INFO  : XRT server has started successfully on port '4355'
+12:34:31 INFO  : Done
+12:34:31 INFO  : Done
+12:34:31 INFO  : Done
+12:34:31 INFO  : Port updated for peer XRTServer with value 4355
+12:34:45 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+12:34:45 INFO  : In terminateProcessTree: Terminated  --- 1362126
+12:34:45 INFO  : Trying to terminate matched pids  --- [1362011, 1362038]
+12:34:46 INFO  : Terminated  --- 1362011
+12:34:46 INFO  : Terminated  --- 1362038
+12:34:46 INFO  : Completed termination of  pids  --- [1362011, 1362038]
+12:34:54 INFO  : XRT server has started successfully on port '4354'
+12:34:54 INFO  : Done
+12:34:54 INFO  : Done
+12:34:54 INFO  : Done
+12:34:54 INFO  : Port updated for peer XRTServer with value 4354
+12:36:31 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+12:36:31 INFO  : In terminateProcessTree: Terminated  --- 1362411
+12:36:31 INFO  : Trying to terminate matched pids  --- [1362299, 1362326]
+12:36:31 INFO  : Terminated  --- 1362299
+12:36:31 INFO  : Terminated  --- 1362326
+12:36:31 INFO  : Completed termination of  pids  --- [1362299, 1362326]
+12:36:45 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:38:26 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:39:29 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:41:36 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+12:43:53 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:09:42 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:13:02 INFO  : Terminating Vitis C++ Server
+14:13:02 INFO  : Vitis C++ Server terminated
+14:13:30 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:13:30 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu2272290078470904617 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:13:30 INFO  : Embedded Template List generated successfully
+14:13:30 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+14:13:30 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:13:30 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu7368445111611664420 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:13:30 INFO  : Embedded Template List generated successfully
+14:15:16 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu7984906760852298897 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:15:16 INFO  : Embedded Template List generated successfully
+14:15:16 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+14:15:16 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:15:16 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu4355188285263880184 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:15:17 INFO  : Embedded Template List generated successfully
+14:17:49 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:21:01 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:27:21 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:32:16 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+14:32:16 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:32:16 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu17884691814385635040 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:16 INFO  : Embedded Template List generated successfully
+14:32:16 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu4925959257284576570 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:17 INFO  : Embedded Template List generated successfully
+14:32:23 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+14:32:23 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:32:23 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu14115772175759871072 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:23 INFO  : Embedded Template List generated successfully
+14:32:23 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu9405779005703748255 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:23 INFO  : Embedded Template List generated successfully
+14:32:30 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu3378905656947977334 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:30 INFO  : Embedded Template List generated successfully
+14:32:30 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+14:32:30 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:32:30 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu16520168377231751635 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:30 INFO  : Embedded Template List generated successfully
+14:32:37 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+14:32:37 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:32:37 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu11259646421805415712 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:37 INFO  : Embedded Template List generated successfully
+14:32:37 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu2622906580149765442 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:32:37 INFO  : Embedded Template List generated successfully
+14:33:54 INFO  : Terminating Vitis C++ Server
+14:33:54 INFO  : Vitis C++ Server terminated
+14:34:21 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:34:21 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu18146975845134874583 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:34:21 INFO  : Embedded Template List generated successfully
+14:34:21 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+14:34:21 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+14:34:21 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu17227856384948229300 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+14:34:21 INFO  : Embedded Template List generated successfully
+14:34:45 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:40:54 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:42:13 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+14:46:42 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:12:14 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:14:23 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:16:27 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:22:42 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:23:06 INFO  : Component 'aie_component' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:24:59 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+15:24:59 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/matrix_plio_vec/_ide/_build
+15:24:59 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test/matrix_plio_vec
+15:24:59 INFO  :  Found compiledb at /tools/Xilinx/Vitis/2023.2/vitisng-server/scripts/compiledb
+15:24:59 INFO  : Generated compile_commands.json at /home/yzwu/Desktop/soc_test/matrix_plio_vec/_ide/_build
+15:25:17 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:28:48 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:29:10 ERROR : matrix_plio_vec build failed. 
+15:29:38 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:30:01 ERROR : matrix_plio_vec build failed. 
+15:31:24 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:31:46 ERROR : matrix_plio_vec build failed. 
+15:33:23 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:35:33 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:36:47 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:39:30 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+15:39:30 INFO  : Trying to terminate matched pids  --- [1394756, 1394775]
+15:39:30 INFO  : Terminated  --- 1394756
+15:39:30 INFO  : Terminated  --- 1394775
+15:39:30 INFO  : Completed termination of  pids  --- [1394756, 1394775]
+15:45:51 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:46:13 ERROR : matrix_plio_vec build failed. 
+15:46:28 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:50:37 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:55:14 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+15:56:40 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:00:57 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu13857042797668615141 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:00:57 INFO  : Embedded Template List generated successfully
+16:00:57 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+16:00:57 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+16:00:57 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu18406846998785748595 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:00:58 INFO  : Embedded Template List generated successfully
+16:01:04 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+16:01:04 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+16:01:04 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu12430423197037616438 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:01:04 INFO  : Embedded Template List generated successfully
+16:01:04 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu5236720140498017510 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:01:05 INFO  : Embedded Template List generated successfully
+16:03:17 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:05:47 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:10:13 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:11:53 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:12:28 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:20:45 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:21:26 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:24:58 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:25:46 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:28:23 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:28:56 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:50:17 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:52:20 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+16:53:50 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+16:53:50 INFO  : Trying to terminate matched pids  --- [1415118, 1415149]
+16:53:50 INFO  : Terminated  --- 1415118
+16:53:50 INFO  : Terminated  --- 1415149
+16:53:50 INFO  : Completed termination of  pids  --- [1415118, 1415149]
+16:55:10 INFO  : Terminating Vitis C++ Server
+16:55:10 INFO  : Vitis C++ Server terminated
+16:56:15 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+16:56:15 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu15870560690347974869 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:56:15 INFO  : Embedded Template List generated successfully
+16:56:15 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+16:56:15 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+16:56:15 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu6982892960387272301 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+16:56:15 INFO  : Embedded Template List generated successfully
+16:56:56 INFO  : Component 'matrix_plio_vec' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:05:27 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:09:55 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:19:35 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:21:48 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:23:57 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:23:58 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=hw -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:24:00 ERROR : Build Terminated.
+17:47:16 INFO  : Component 'matrix_plio' configure command: cmake -G "Unix Makefiles" ../../ -DVITIS_TARGET=x86sim -DVITIS_PLATFORM_PATH=/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm
+17:47:55 INFO  : XRT server has started successfully on port '4355'
+17:47:56 INFO  : XSDB server has started successfully from frontend.
+17:47:56 INFO  : It has taken  1secs.
+17:47:57 INFO  : Connection to XSDB Server established.
+17:47:57 INFO  : It has taken  1secs.
+17:47:57 INFO  : Done
+17:47:57 INFO  : Done
+17:47:57 INFO  : Done
+17:47:57 INFO  : Done
+17:47:57 INFO  : Port updated for peer XRTServer with value 4355
+17:48:26 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12003"
+
+17:48:26 INFO  : In terminateProcessTree: Terminated  --- 1433629
+17:48:26 ERROR : /tools/Xilinx/Vitis/2023.2/bin/xrt_server: line 129: 1433655 Killed                  "$RDI_BINROOT"/loader -exec $RDI_PROG "$@"
+17:48:26 INFO  : Trying to terminate matched pids  --- [1433519, 1433545]
+17:48:26 INFO  : Terminated  --- 1433519
+17:48:26 INFO  : Terminated  --- 1433545
+17:48:26 INFO  : Completed termination of  pids  --- [1433519, 1433545]
+17:49:09 INFO  : XRT server has started successfully on port '4351'
+17:49:09 INFO  : Done
+17:49:09 INFO  : Done
+17:49:09 INFO  : Done
+17:49:09 INFO  : Port updated for peer XRTServer with value 4351
+17:51:14 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+17:51:14 INFO  : In terminateProcessTree: Terminated  --- 1434081
+17:51:14 INFO  : Trying to terminate matched pids  --- [1433914, 1433942]
+17:51:14 INFO  : Terminated  --- 1433914
+17:51:14 INFO  : Terminated  --- 1433942
+17:51:14 INFO  : Completed termination of  pids  --- [1433914, 1433942]
+17:51:22 INFO  : XRT server has started successfully on port '4351'
+17:51:22 INFO  : Done
+17:51:22 INFO  : Done
+17:51:22 INFO  : Done
+17:51:22 INFO  : Port updated for peer XRTServer with value 4351
+17:51:26 INFO  : Trying to terminate --- command: "/bin/bash"
+first_arg_substring: "aiesimulator"
+any_other_arg: "--aximm-port=12002"
+
+17:51:26 INFO  : In terminateProcessTree: Terminated  --- 1435589
+17:51:26 ERROR : /tools/Xilinx/Vitis/2023.2/bin/xrt_server: line 129: 1435615 Killed                  "$RDI_BINROOT"/loader -exec $RDI_PROG "$@"
+17:51:26 INFO  : Trying to terminate matched pids  --- [1435464, 1435490]
+17:51:26 INFO  : Terminated  --- 1435464
+17:51:26 INFO  : Terminated  --- 1435490
+17:51:26 INFO  : Completed termination of  pids  --- [1435464, 1435490]
+20:24:24 INFO  : Terminating Vitis C++ Server
+20:51:18 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+20:51:18 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+20:51:18 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu13374843357080943035 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+20:51:19 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+20:51:19 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+20:51:19 INFO  : Embedded Template List generated successfully
+20:51:19 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu12508272148439121345 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+20:51:19 INFO  : Embedded Template List generated successfully
+20:55:47 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu9799081493109191360 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+11:11:40 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+11:11:40 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu16630839561981866965 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+11:11:40 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+11:11:40 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+11:11:40 INFO  : Embedded Template List generated successfully
+11:11:40 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu13746359366374800294 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+11:11:40 INFO  : Embedded Template List generated successfully
+12:49:18 INFO  : Terminating Vitis C++ Server
+20:00:45 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+20:00:45 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu17357203153590340487 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+20:00:46 INFO  : created .gitignore file for the project /home/yzwu/Desktop/soc_test
+20:00:46 INFO  : updated workspace path: /home/yzwu/Desktop/soc_test
+20:00:46 INFO  : Embedded Template List generated successfully
+20:00:46 INFO  : bash, -c, source /tools/Xilinx/Vitis/2023.2/tps/lnx64/lopper-1.1.0/env/bin/activate && python /tools/Xilinx/Vitis/2023.2/data/embeddedsw/scripts/pyesw//get_template_data.py -d /tmp/rigel_lopper_yzwu15430173457777346983 -r /home/yzwu/Desktop/soc_test/.repo.yaml && deactivate
+20:00:46 INFO  : Embedded Template List generated successfully

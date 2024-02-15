@@ -1,0 +1,169 @@
+<ENTRY>
+{
+ "thisFile": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd.xo.compile_summary",
+ "connectId": "",
+ "serverToken": "",
+ "timestamp": "0"
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_CmdStep",
+ "dateTimestamp": "Thu Feb  8 20:54:29 2024",
+ "timestampMillis": "1707443669694",
+ "buildStep": {
+  "cmdId": "8f9a4787-9f36-4934-8203-990ad6b06e1f",
+  "name": "v++",
+  "logFile": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd/krnl_vadd.steps.log",
+  "commandLine": "/tools/Xilinx/Vitis/2023.2/bin/unwrapped/lnx64.o/v++  --vivado.prop \"run.__KERNEL__.{STEPS.SYNTH_DESIGN.ARGS.MORE OPTIONS}={-directive sdx_optimization_effort_high}\" --advanced.misc \"report=type report_timing_summary name impl_report_timing_summary_route_design_summary steps {route_design} runs {impl_1} options {-max_paths 10}\" --advanced.misc \"report=type report_timing_summary name impl_report_timing_summary_post_route_phys_opt_design_summary steps {post_route_phys_opt_design} runs {impl_1} options {-max_paths 10}\" -c -k krnl_vadd --target sw_emu /home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd.cpp -g -I/home/yzwu/Desktop/soc_test/vadd_common --platform /tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm --temp_dir /home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu -o /home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd.xo ",
+  "args": [
+   "-c",
+   "-k",
+   "krnl_vadd",
+   "--target",
+   "sw_emu",
+   "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd.cpp",
+   "-g",
+   "-I/home/yzwu/Desktop/soc_test/vadd_common",
+   "--platform",
+   "/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm",
+   "--temp_dir",
+   "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu",
+   "-o",
+   "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd.xo"
+  ],
+  "iniFiles": [],
+  "cwd": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "Thu Feb  8 20:54:29 2024",
+ "timestampMillis": "1707443669694",
+ "status": {
+  "cmdId": "8f9a4787-9f36-4934-8203-990ad6b06e1f",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_FlowMetaData",
+ "dateTimestamp": "Thu Feb  8 20:54:30 2024",
+ "timestampMillis": "1707443670457",
+ "buildSummary": {
+  "hardwarePlatform": "xilinx_vck190_base_202320_1.xpfm",
+  "hardwareDsa": "hw.xsa",
+  "platformDirectory": "/tools/Xilinx/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1",
+  "runtime": "OpenCL",
+  "systemConfig": "Linux",
+  "flow": "BF_COMPILE",
+  "target": "TT_SW_EMU",
+  "kernels": [
+   {
+    "base": {
+     "type": "KERNEL",
+     "name": "krnl_vadd",
+     "file": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd.xo",
+     "reports": [],
+     "uuid": ""
+    },
+    "sources": [
+     "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd.cpp"
+    ],
+    "psSources": [],
+    "cuNames": [],
+    "type": "HLS",
+    "frequency": 0,
+    "freqUnits": ""
+   }
+  ],
+  "toolVersion": "Vitis V++ Compiler Release 2023.2. SW Build 4026344 on 2023-10-11-15:42:10"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_SubCmdStep",
+ "dateTimestamp": "Thu Feb  8 20:54:30 2024",
+ "timestampMillis": "1707443670459",
+ "buildStep": {
+  "cmdId": "66fea6ad-74e7-4791-992e-260090b8fd35",
+  "name": "vitis_hls",
+  "logFile": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd/krnl_vadd/vitis_hls.log",
+  "commandLine": "vitis_hls -f /home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd/krnl_vadd/krnl_vadd.tcl -messageDb vitis_hls.pb",
+  "args": [
+   "vitis_hls",
+   "-f",
+   "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/krnl_vadd/krnl_vadd/krnl_vadd.tcl",
+   "-messageDb",
+   "vitis_hls.pb"
+  ],
+  "iniFiles": [],
+  "cwd": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "Thu Feb  8 20:54:30 2024",
+ "timestampMillis": "1707443670459",
+ "status": {
+  "cmdId": "66fea6ad-74e7-4791-992e-260090b8fd35",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "Thu Feb  8 20:54:38 2024",
+ "timestampMillis": "1707443678526",
+ "status": {
+  "cmdId": "66fea6ad-74e7-4791-992e-260090b8fd35",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "Thu Feb  8 20:54:38 2024",
+ "timestampMillis": "1707443678531",
+ "status": {
+  "cmdId": "8f9a4787-9f36-4934-8203-990ad6b06e1f",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "Thu Feb  8 20:54:38 2024",
+ "timestampMillis": "1707443678559",
+ "report": {
+  "path": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/reports/krnl_vadd/v++_compile_krnl_vadd_guidance.html",
+  "name": "",
+  "fileType": "HTML",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "Thu Feb  8 20:54:38 2024",
+ "timestampMillis": "1707443678559",
+ "report": {
+  "path": "/home/yzwu/Desktop/soc_test/vadd_krnl_vadd/krnl_vadd/sw_emu/v++_compile_krnl_vadd_guidance.pb3",
+  "name": "",
+  "fileType": "BINARY_PROTOBUF",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>
