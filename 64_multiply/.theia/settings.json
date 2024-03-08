@@ -1,4 +1,0 @@
-{
-    "clangd.fallbackFlags": [],
-    "TCFAdapter.steppingGranularity": "statement"
-}
