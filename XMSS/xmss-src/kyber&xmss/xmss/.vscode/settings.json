@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sha.h": "c",
+        "macros.h": "c",
+        "opensslconf.h": "c"
+    }
+}

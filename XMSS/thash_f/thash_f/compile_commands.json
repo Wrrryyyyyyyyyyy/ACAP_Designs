@@ -1,0 +1,35 @@
+[
+  {
+    "directory": "/home/yzwu/Desktop/thash_f/thash_f/_ide/_build",
+    "arguments": [
+      "/tools/Xilinx/Vitis/2023.2/aietools/tps/lnx64/gcc/bin/g++",
+      "-c",
+      "-I/tools/Xilinx/Vitis/2023.2/aietools/include",
+      "-I/home/yzwu/Desktop/thash_f/thash_f",
+      "-I/home/yzwu/Desktop/thash_f/thash_f/src",
+      "-I/tools/Xilinx/Vitis/2023.2/aietools/include",
+      "/home/yzwu/Desktop/thash_f/thash_f/src/project.cpp"
+    ],
+    "file": "/home/yzwu/Desktop/thash_f/thash_f/src/project.cpp"
+  },
+  {
+    "directory": "/home/yzwu/Desktop/thash_f/thash_f/_ide/_build/thash_f",
+    "command": "/tools/Xilinx/Vitis/2023.2/aietools/bin/aie_clang++ -fPIC -c -o wrap_src/kernels/thash_f.cc.o -D__AIENGINE__ -D__AIEARCH__\u003d1 -std\u003dc++17 -D__X86SIM__ -D__PTHREAD_API__ -DHLS_STREAM_THREAD_SAFE -D__AIEARCH__\u003d1 -DAIE_OPTION_SCALAR_FLOAT_ON_VECTOR -I/tools/Xilinx/Vitis_HLS/2023.2/include -I/tools/Xilinx/Vitis/2023.2/aietools/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/osci_systemc/include -I/tools/Xilinx/Vitis/2023.2/aietools/tps/boost_1_72_0 -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/runtime_cxx/libs/libcxx-9.0.0/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib -I/tools/Xilinx/Vitis/2023.2/aietools/tps/lnx64/target/chessdir -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp_multifunc/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/dwfc_multifunc/include -include /tools/Xilinx/Vitis/2023.2/aietools/include/adf/x86sim/aieNative.h -std\u003dc++2a -stdlib\u003dlibc++ src/kernels/thash_f.cc",
+    "file": "src/kernels/thash_f.cc"
+  },
+  {
+    "directory": "/home/yzwu/Desktop/thash_f/thash_f/_ide/_build/thash_f",
+    "command": "/tools/Xilinx/Vitis/2023.2/aietools/bin/aie_clang++ -fPIC -c -o wrap_src/kernels/sha256.cc.o -D__AIENGINE__ -D__AIEARCH__\u003d1 -std\u003dc++17 -D__X86SIM__ -D__PTHREAD_API__ -DHLS_STREAM_THREAD_SAFE -D__AIEARCH__\u003d1 -DAIE_OPTION_SCALAR_FLOAT_ON_VECTOR -I/tools/Xilinx/Vitis_HLS/2023.2/include -I/tools/Xilinx/Vitis/2023.2/aietools/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/osci_systemc/include -I/tools/Xilinx/Vitis/2023.2/aietools/tps/boost_1_72_0 -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/runtime_cxx/libs/libcxx-9.0.0/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib -I/tools/Xilinx/Vitis/2023.2/aietools/tps/lnx64/target/chessdir -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp_multifunc/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/dwfc_multifunc/include -include /tools/Xilinx/Vitis/2023.2/aietools/include/adf/x86sim/aieNative.h -std\u003dc++2a -stdlib\u003dlibc++ src/kernels/sha256.cc",
+    "file": "src/kernels/sha256.cc"
+  },
+  {
+    "directory": "/home/yzwu/Desktop/thash_f/thash_f/_ide/_build/thash_f",
+    "command": "/tools/Xilinx/Vitis/2023.2/aietools/bin/aie_clang++ -fPIC -c -o wrap_src/kernels/sha256_mask.cc.o -D__AIENGINE__ -D__AIEARCH__\u003d1 -std\u003dc++17 -D__X86SIM__ -D__PTHREAD_API__ -DHLS_STREAM_THREAD_SAFE -D__AIEARCH__\u003d1 -DAIE_OPTION_SCALAR_FLOAT_ON_VECTOR -I/tools/Xilinx/Vitis_HLS/2023.2/include -I/tools/Xilinx/Vitis/2023.2/aietools/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/osci_systemc/include -I/tools/Xilinx/Vitis/2023.2/aietools/tps/boost_1_72_0 -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/runtime_cxx/libs/libcxx-9.0.0/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib -I/tools/Xilinx/Vitis/2023.2/aietools/tps/lnx64/target/chessdir -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp_multifunc/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/dwfc_multifunc/include -include /tools/Xilinx/Vitis/2023.2/aietools/include/adf/x86sim/aieNative.h -std\u003dc++2a -stdlib\u003dlibc++ src/kernels/sha256_mask.cc",
+    "file": "src/kernels/sha256_mask.cc"
+  },
+  {
+    "directory": "/home/yzwu/Desktop/thash_f/thash_f/_ide/_build/thash_f",
+    "command": "/tools/Xilinx/Vitis/2023.2/aietools/bin/aie_clang++ -fPIC -c -o wrap_src/kernels/sha256_f.cc.o -D__AIENGINE__ -D__AIEARCH__\u003d1 -std\u003dc++17 -D__X86SIM__ -D__PTHREAD_API__ -DHLS_STREAM_THREAD_SAFE -D__AIEARCH__\u003d1 -DAIE_OPTION_SCALAR_FLOAT_ON_VECTOR -I/tools/Xilinx/Vitis_HLS/2023.2/include -I/tools/Xilinx/Vitis/2023.2/aietools/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/osci_systemc/include -I/tools/Xilinx/Vitis/2023.2/aietools/tps/boost_1_72_0 -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/runtime_cxx/libs/libcxx-9.0.0/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib -I/tools/Xilinx/Vitis/2023.2/aietools/tps/lnx64/target/chessdir -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/DWFC_fp_multifunc/include -I/tools/Xilinx/Vitis/2023.2/aietools/data/versal_prod/lib/designware/dwfc_multifunc/include -include /tools/Xilinx/Vitis/2023.2/aietools/include/adf/x86sim/aieNative.h -std\u003dc++2a -stdlib\u003dlibc++ src/kernels/sha256_f.cc",
+    "file": "src/kernels/sha256_f.cc"
+  }
+]

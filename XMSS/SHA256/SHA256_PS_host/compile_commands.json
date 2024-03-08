@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/yzwu/Desktop/SHA256/SHA256_PS_host/_ide/_build",
+    "command": "/usr/bin/g++ -DVITIS_MAJOR_VERSION\u003d2023 -DVITIS_MINOR_VERSION\u003d2 -DVITIS_VERSION\u003d2023.2 -D__USE_XOPEN2K8 -I/home/yzwu/Desktop/SHA256/SHA256_PS_host/../SHA256_PS_common -I/tools/Xilinx/Vitis_HLS/2023.2/include -I/opt/xilinx/xrt/include -I/tools/Xilinx/Vitis/2023.2/aietools/include -g -Wall -Wextra -O0 -g3 -std\u003dc++14 -o CMakeFiles/SHA256_PS_host.dir/host.cpp.o -c /home/yzwu/Desktop/SHA256/SHA256_PS_host/host.cpp",
+    "file": "/home/yzwu/Desktop/SHA256/SHA256_PS_host/host.cpp"
+  },
+  {
+    "directory": "/home/yzwu/Desktop/SHA256/SHA256_PS_host/_ide/_build",
+    "command": "/usr/bin/g++ -DVITIS_MAJOR_VERSION\u003d2023 -DVITIS_MINOR_VERSION\u003d2 -DVITIS_VERSION\u003d2023.2 -D__USE_XOPEN2K8 -I/home/yzwu/Desktop/SHA256/SHA256_PS_host/../SHA256_PS_common -I/tools/Xilinx/Vitis_HLS/2023.2/include -I/opt/xilinx/xrt/include -I/tools/Xilinx/Vitis/2023.2/aietools/include -g -Wall -Wextra -O0 -g3 -std\u003dc++14 -o CMakeFiles/SHA256_PS_host.dir/sha256.cpp.o -c /home/yzwu/Desktop/SHA256/SHA256_PS_host/sha256.cpp",
+    "file": "/home/yzwu/Desktop/SHA256/SHA256_PS_host/sha256.cpp"
+  }
+]

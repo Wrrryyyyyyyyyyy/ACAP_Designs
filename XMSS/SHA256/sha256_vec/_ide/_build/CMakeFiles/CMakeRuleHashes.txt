@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+23dcba9a0f677ec2c3f708a93dc1b335 CMakeFiles/sha256_vec_libadf.a
+112cb2031f778ce17d510aeaaee0ffe0 libadf.a

@@ -1,0 +1,6 @@
+{
+    "clangd.fallbackFlags": [],
+    "VitisApplication.Versal.Sysroot": "/opt/petalinux/2023.2/sysroots/cortexa72-cortexa53-xilinx-linux",
+    "VitisApplication.Versal.KernelImage": "/opt/xilinx/platforms/Image",
+    "VitisApplication.Versal.RootFS": "/opt/xilinx/platforms/rootfs.ext4"
+}

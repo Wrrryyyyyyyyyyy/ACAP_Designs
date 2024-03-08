@@ -1,0 +1,3 @@
+/home/yzwu/Desktop/SHA256/sha256_vec/_ide/_build/CMakeFiles/sha256_vec_libadf.a.dir
+/home/yzwu/Desktop/SHA256/sha256_vec/_ide/_build/CMakeFiles/edit_cache.dir
+/home/yzwu/Desktop/SHA256/sha256_vec/_ide/_build/CMakeFiles/rebuild_cache.dir

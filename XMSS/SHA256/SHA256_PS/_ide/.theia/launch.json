@@ -1,0 +1,145 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "SHA256_PS_sw_emu",
+      "debugType": "sw_emu",
+      "type": "gdb",
+      "request": "launch",
+      "target": "${workspaceFolder}/SHA256_PS_host/build/x86sim/SHA256_PS_host",
+      "applicationProjectDir": "${workspaceFolder}/SHA256_PS",
+      "arguments": "${workspaceFolder}/SHA256_PS/build/sw_emu/package/binary_container_1.xclbin",
+      "cwd": "${workspaceFolder}/SHA256_PS/build/sw_emu/SHA256_PS_sw_emu",
+      "gdbpath": "${env:XILINX_VITIS}/bin/xgdb",
+      "valuesFormatting": "prettyPrinters",
+      "env": {
+        "XILINX_VITIS": "${env:XILINX_VITIS}",
+        "XILINX_HLS": "${env:XILINX_VITIS}",
+        "XCL_EMULATION_MODE": "sw_emu",
+        "ENABLE_KERNEL_DEBUG": "true",
+        "XRT_INI_PATH": "${workspaceFolder}/SHA256_PS/SHA256_PS_host/runtime/sw_emu_xrt.ini",
+        "XCL_BIN_PATH": "${workspaceFolder}/SHA256_PS/build/sw_emu/package",
+        "LD_LIBRARY_PATH": "${env:XILINX_XRT}/lib"
+      }
+    },
+    {
+      "type": "tcf-debug",
+      "request": "launch",
+      "name": "SHA256_PS_hw_emu",
+      "debugType": "tcf_hw_emu",
+      "target": {
+        "targetConnectionId": "LinuxEmulation",
+        "peersIniPath": "../../../.peers.ini",
+        "file": "${workspaceFolder}/SHA256_PS_host/build/hw/SHA256_PS_host",
+        "remoteFilePath": "/run/media/mmcblk0p1/SHA256_PS_host"
+      },
+      "env": {
+        "XILINX_VITIS": "/run/media/mmcblk0p1",
+        "XILINX_XRT": "/usr",
+        "XCL_EMULATION_MODE": "hw_emu",
+        "XRT_INI_PATH": "/run/media/mmcblk0p1/hw_emu_xrt.ini",
+        "LD_LIBRARY_PATH": "/run/media/mmcblk0p1:/tmp:$LD_LIBRARY_PATH"
+      },
+      "copyToTarget": [
+        {
+          "source": "${workspaceFolder}/SHA256_PS/build/hw_emu/package/binary_container_1.xclbin",
+          "destination": "/run/media/mmcblk0p1"
+        },
+        {
+          "source": "${workspaceFolder}/SHA256_PS/SHA256_PS_host/runtime/hw_emu_xrt.ini",
+          "destination": "/run/media/mmcblk0p1"
+        }
+      ],
+      "copyFromTargetOnTermination": [
+        {
+          "pattern": ".txt",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw_emu/SHA256_PS_hw_emu"
+        },
+        {
+          "pattern": ".run_summary",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw_emu/SHA256_PS_hw_emu"
+        },
+        {
+          "pattern": ".json",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw_emu/SHA256_PS_hw_emu"
+        },
+        {
+          "pattern": ".csv",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw_emu/SHA256_PS_hw_emu"
+        }
+      ],
+      "pathMap": [
+        {
+          "source": "/home/yzwu/Desktop/SHA256/SHA256_PS/build/hw_emu/hw_link/binary_container_1/binary_container_1/int/xo/krnl_vadd/krnl_vadd/cpu_sources",
+          "destination": "/home/yzwu/Desktop/SHA256/SHA256_PS_krnl_vadd"
+        }
+      ],
+      "replaceNativeEnv": false,
+      "arguments": "./binary_container_1.xclbin",
+      "workingDirectory": "/run/media/mmcblk0p1",
+      "stopAtMain": true,
+      "stopAtProgramEntry": false,
+      "autoAttachProcessChildren": false,
+      "internalConsoleOptions": "openOnSessionStart"
+    },
+    {
+      "type": "tcf-debug",
+      "request": "launch",
+      "name": "SHA256_PS_hw",
+      "debugType": "tcf_hw",
+      "target": {
+        "targetConnectionId": "Linux Agent",
+        "peersIniPath": "../../../.peers.ini",
+        "file": "${workspaceFolder}/SHA256_PS_host/build/hw/SHA256_PS_host",
+        "remoteFilePath": "/run/media/mmcblk0p1/SHA256_PS_host"
+      },
+      "env": {
+        "XILINX_VITIS": "/run/media/mmcblk0p1",
+        "XILINX_XRT": "/usr",
+        "XRT_INI_PATH": "/run/media/mmcblk0p1/hw_xrt.ini",
+        "LD_LIBRARY_PATH": "/run/media/mmcblk0p1:/tmp:$LD_LIBRARY_PATH"
+      },
+      "copyToTarget": [
+        {
+          "source": "${workspaceFolder}/SHA256_PS/build/hw/package/binary_container_1.xclbin",
+          "destination": "/run/media/mmcblk0p1"
+        },
+        {
+          "source": "${workspaceFolder}/SHA256_PS/SHA256_PS_host/runtime/hw_xrt.ini",
+          "destination": "/run/media/mmcblk0p1"
+        }
+      ],
+      "copyFromTargetOnTermination": [
+        {
+          "pattern": ".txt",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw/SHA256_PS_hw"
+        },
+        {
+          "pattern": ".run_summary",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw/SHA256_PS_hw"
+        },
+        {
+          "pattern": ".json",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw/SHA256_PS_hw"
+        },
+        {
+          "pattern": ".csv",
+          "destination": "${workspaceFolder}/SHA256_PS/build/hw/SHA256_PS_hw"
+        }
+      ],
+      "pathMap": [
+        {
+          "source": "/home/yzwu/Desktop/SHA256/SHA256_PS/build/hw/hw_link/binary_container_1/binary_container_1/int/xo/krnl_vadd/krnl_vadd/cpu_sources",
+          "destination": "/home/yzwu/Desktop/SHA256/SHA256_PS_krnl_vadd"
+        }
+      ],
+      "replaceNativeEnv": false,
+      "arguments": "./binary_container_1.xclbin",
+      "workingDirectory": "/run/media/mmcblk0p1",
+      "stopAtMain": true,
+      "stopAtProgramEntry": false,
+      "autoAttachProcessChildren": false,
+      "internalConsoleOptions": "openOnSessionStart"
+    }
+  ]
+}
